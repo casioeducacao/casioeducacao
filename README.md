@@ -88,4 +88,4 @@ A compatibilidade pode variar conforme o modelo da calculadora, a versão do sis
 
 <br>
 
-<p align=center> <sub> Casio Educação • Boost Your Curiosity &nbsp;&nbsp;&nbsp; ©2026 </sub> </p>
+<p align=center> <sub> Casio Educação • Boost Your Curiosity &nbsp;&nbsp;&nbsp; <br>©2026 </sub> </p>
