@@ -1,5 +1,8 @@
-[![GitHub ReadMe Header](https://github.com/casioeducacao/casioeducacao/blob/master/header/banner_github.png)
-## Hello there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p align="center">
+  <img src="./header/banner-github.png" width="100%" alt="CASIO Educação">
+</p>
+
+## Hello there!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="">
 
 
 Seja bem vindo ao GitHub da **CASIO Educação**. Este espaço reúne projetos, códigos, exemplos e materiais de apoio para quem quer explorar novas possibilidades com as calculadoras CASIO no ensino.
@@ -11,7 +14,7 @@ Aqui, professores e estudantes encontram conteúdos para trabalhar temas ligados
 ---
 
 <h3>
-  <img src="./assets/toolkit.gif" width="55" align="middle" alt="">
+  <img src="./gifs/toolkit.gif" width="40" align="middle" alt="">
   O que você encontra por aqui
 </h3>
 
@@ -44,7 +47,7 @@ Aqui, professores e estudantes encontram conteúdos para trabalhar temas ligados
 ---
 
 <h3>
-  <img src="https://raw.githubusercontent.com/casioeducacao/casioeducacao/master/gifs/lab.gif" width="65" align="middle"> Laboratório de Aprendizado
+  <img src="https://raw.githubusercontent.com/casioeducacao/casioeducacao/master/gifs/lab.gif" width="40" align="middle"> Laboratório de Aprendizado
 </h3>
 
 Os repositórios publicados neste perfil têm finalidade educacional e demonstrativa.
@@ -54,7 +57,7 @@ Cada projeto pode ter seu próprio objetivo, requisitos, instruções de uso, co
 ---
 
 <h3>
-  <img src="./assets/link.gif" width="55" align="middle" alt="">
+  <img src="./gifs/link.gif" width="55" align="middle" alt="">
   Links úteis
 </h3>
 
@@ -78,7 +81,7 @@ Cada projeto pode ter seu próprio objetivo, requisitos, instruções de uso, co
 ---
 
 <h3>
-  <img src="./assets/note.gif" width="55" align="middle" alt="">
+  <img src="./gifs/about-me.gif" width="40" align="middle" alt="">
   Aviso
 </h3>
 
